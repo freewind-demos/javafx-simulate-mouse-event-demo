@@ -1,5 +1,5 @@
-JavaFX Hello World Demo
-=======================
+JavaFX Simulate Mouse Event Demo
+================================
 
-Show a window with `Hello, JavaFX` label.
+Use code to fire a Double-Click mouse event to some node manually.
 
